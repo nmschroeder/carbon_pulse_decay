@@ -1,2 +1,1 @@
-This repository includes one MATLAB file for Project 1 and 
-the corresponding written report as a PDF.
+This report and corresponding MATLAB file detail an investigation of the atmospheric carbon pulse decay model introduced by Joos et al, 2013, in the IPCC AR4. The bisection method, Newton's method, and the secant method are used to approximate when the atmospheric carbon concentration from the pulse has reduced to 60% and 25% of its initial value.
